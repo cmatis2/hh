@@ -1,0 +1,20 @@
+{
+    "general":{
+        "servername": "yourservername",
+        "website": "yourwebsite",
+        "maxclients": 64,
+        "logourl": "yourserverlogo.png"
+    },
+    "discord":{
+        "token":"yourbottoken",
+        "cmd_channel": 843744030343954432,
+        "role":"Admin",
+        "prefix":"=",
+        "embedfooter":"by Melktert"
+    },
+    "rcon":{
+        "host":"serverip",
+        "password":"rconpassword",
+        "port":"30120"
+    }
+}
